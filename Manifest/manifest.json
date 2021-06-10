@@ -11,50 +11,50 @@
     "termsOfUseUrl": "<<termsOfUseUrl>>"
   },
   "localizationInfo": {
-    "defaultLanguageTag": "en",
+    "defaultLanguageTag": "en-US",
     "additionalLanguages": [
       {
-        "languageTag": "de",
+        "languageTag": "de-DE",
         "file": "de-DE.json"
       },
       {
-        "languageTag": "fr",
+        "languageTag": "fr-FR",
         "file": "fr-FR.json"
       },
       {
-        "languageTag": "ar",
+        "languageTag": "ar-SA",
         "file": "ar-SA.json"
       },
       {
-        "languageTag": "ja",
+        "languageTag": "ja-JP",
         "file": "ja-JP.json"
       },
       {
-        "languageTag": "es",
+        "languageTag": "es-ES",
         "file": "es-ES.json"
       },
       {
-        "languageTag": "he",
+        "languageTag": "he-IL",
         "file": "he-IL.json"
       },
       {
-        "languageTag": "ko",
+        "languageTag": "ko-KR",
         "file": "ko-KR.json"
       },
       {
-        "languageTag": "pt",
+        "languageTag": "pt-BR",
         "file": "pt-BR.json"
       },
       {
-        "languageTag": "ru",
+        "languageTag": "ru-RU",
         "file": "ru-Ru.json"
       },
       {
-        "languageTag": "zh",
+        "languageTag": "zh-CN",
         "file": "zh-CN.json"
       },
       {
-        "languageTag": "zh",
+        "languageTag": "zh-TW",
         "file": "zh-TW.json"
       }
     ]
