@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "name.short": "专家查找工具",
   "name.full": "专家查找工具",
-  "description.short": ""专家查找工具"允许用户根据一些属性搜索专家",
+  "description.short": "专家查找工具允许用户根据一些属性搜索专家",
   "description.full": "“专业查找工具”允许用户根据技能、兴趣或就读学校搜索组织中的专家。此外，它还为用户提供了更新其个人资料信息并保持其更新的能力。",
   "bots[0].commandLists[0].commands[0].title": "我的个人资料",
   "bots[0].commandLists[0].commands[0].description": "我的个人资料",

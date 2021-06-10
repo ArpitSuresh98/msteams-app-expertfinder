@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "name.short": "Localizador de especialistas",
   "name.full": "Localizador de especialistas",
-  "description.short": "O Localizador de especialistas permite que os usuários pesquisem especialistas com base em alguns atributos",
+  "description.short": "O Localizador de especialistas permite que os usuários pesquisem",
   "description.full": "O expert Finder permite que os usuários pesquisem especialistas em uma organização com base em suas habilidades, interesses ou escolas freqüentados. Além disso, ela também permite que os usuários atualizem suas informações de perfil e as mantenham atualizadas.",
   "bots[0].commandLists[0].commands[0].title": "Meu perfil",
   "bots[0].commandLists[0].commands[0].description": "Meu perfil",

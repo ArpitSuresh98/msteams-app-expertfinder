@@ -47,15 +47,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Include="wwwroot\Artifacts\appLogo.png">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Include="wwwroot\Artifacts\validationIcon.png">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-    </ItemGroup>
-
-    <ItemGroup>
       <Compile Update="Resources\Strings.Designer.cs">
         <DesignTime>True</DesignTime>
         <AutoGen>True</AutoGen>

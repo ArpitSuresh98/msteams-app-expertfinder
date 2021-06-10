@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "name.short": "Expert Finder",
   "name.full": "Expert Finder",
-  "description.short": "Поиск экспертов позволяет пользователям искать в зависимости от некоторых атрибутов",
+  "description.short": "Поиск экспертов позволяет пользователям искать в зависимости от некоторых",
   "description.full": "Expert Finder позволяет пользователям искать экспертов в организации на основе их навыков, интересов или учебных заведений, которые они посещали. Кроме того, эта функция предоставляет пользователям возможность обновить свои данные профиля и поддерживать их в актуальном состоянии.",
   "bots[0].commandLists[0].commands[0].title": "Мой профиль",
   "bots[0].commandLists[0].commands[0].description": "Мой профиль",
