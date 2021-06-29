@@ -88,29 +88,11 @@ namespace Microsoft.Teams.Apps.ExpertFinder.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign out of Expert Finder.
-        /// </summary>
-        public static string BotCommandLogoutDescription {
-            get {
-                return ResourceManager.GetString("BotCommandLogoutDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to My profile.
         /// </summary>
         public static string BotCommandMyProfile {
             get {
                 return ResourceManager.GetString("BotCommandMyProfile", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to My profile.
-        /// </summary>
-        public static string BotCommandMyProfileDescription {
-            get {
-                return ResourceManager.GetString("BotCommandMyProfileDescription", resourceCulture);
             }
         }
         
@@ -124,128 +106,11 @@ namespace Microsoft.Teams.Apps.ExpertFinder.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search individuals.
-        /// </summary>
-        public static string BotCommandSearchDescription {
-            get {
-                return ResourceManager.GetString("BotCommandSearchDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Start a chat.
         /// </summary>
         public static string ChatTitle {
             get {
                 return ResourceManager.GetString("ChatTitle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Interests.
-        /// </summary>
-        public static string ComposeExtensionsCommandInterests {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandInterests", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of interest.
-        /// </summary>
-        public static string ComposeExtensionsCommandInterestsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandInterestsDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Schools.
-        /// </summary>
-        public static string ComposeExtensionsCommandSchools {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandSchools", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of schools.
-        /// </summary>
-        public static string ComposeExtensionsCommandSchoolsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandSchoolsDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Skills.
-        /// </summary>
-        public static string ComposeExtensionsCommandSkills {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandSkills", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of skills.
-        /// </summary>
-        public static string ComposeExtensionsCommandSkillsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsCommandSkillsDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Interests.
-        /// </summary>
-        public static string ComposeExtensionsParametersInterests {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersInterests", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of interest.
-        /// </summary>
-        public static string ComposeExtensionsParametersInterestsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersInterestsDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Schools.
-        /// </summary>
-        public static string ComposeExtensionsParametersSchools {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersSchools", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of schools.
-        /// </summary>
-        public static string ComposeExtensionsParametersSchoolsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersSchoolsDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Skills.
-        /// </summary>
-        public static string ComposeExtensionsParametersSkills {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersSkills", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Search experts on basis of skills.
-        /// </summary>
-        public static string ComposeExtensionsParametersSkillsDescription {
-            get {
-                return ResourceManager.GetString("ComposeExtensionsParametersSkillsDescription", resourceCulture);
             }
         }
         
@@ -282,42 +147,6 @@ namespace Microsoft.Teams.Apps.ExpertFinder.Resources {
         public static string EmptyProfileCardContent {
             get {
                 return ResourceManager.GetString("EmptyProfileCardContent", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Expert Finder lets users search for experts in an organization based on their skills, interests or schools attended. In addition, it also provides users the ability to update their profile information and keep it up to date..
-        /// </summary>
-        public static string EndUserManifestFullDescription {
-            get {
-                return ResourceManager.GetString("EndUserManifestFullDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Expert Finder.
-        /// </summary>
-        public static string EndUserManifestFullName {
-            get {
-                return ResourceManager.GetString("EndUserManifestFullName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Expert Finder lets users search for experts based on some attributes.
-        /// </summary>
-        public static string EndUserManifestShortDescription {
-            get {
-                return ResourceManager.GetString("EndUserManifestShortDescription", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Expert Finder.
-        /// </summary>
-        public static string EndUserManifestShortName {
-            get {
-                return ResourceManager.GetString("EndUserManifestShortName", resourceCulture);
             }
         }
         

@@ -299,75 +299,15 @@
   </data>
   <data name="BotCommandLogout" xml:space="preserve">
     <value>ログアウト</value>
-    <comment>Bot command logout</comment>
-  </data>
-  <data name="BotCommandLogoutDescription" xml:space="preserve">
-    <value>エキスパートの検索からサインアウト</value>
-    <comment>Bot command logout description</comment>
+    <comment>Bot command Logout. This needs to be matched with manifest's command "Logout" in translated json file.</comment>
   </data>
   <data name="BotCommandMyProfile" xml:space="preserve">
     <value>マイ プロフィール</value>
-    <comment>Bot command my profile</comment>
-  </data>
-  <data name="BotCommandMyProfileDescription" xml:space="preserve">
-    <value>マイ プロフィール</value>
-    <comment>Bot command my profile description</comment>
+    <comment>Bot command My Profile. This needs to be matched with manifest's command "My Profile" in translated json file.</comment>
   </data>
   <data name="BotCommandSearch" xml:space="preserve">
     <value>検索</value>
-    <comment>Bot command search</comment>
-  </data>
-  <data name="BotCommandSearchDescription" xml:space="preserve">
-    <value>個人を検索</value>
-    <comment>Bot command search description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandInterests" xml:space="preserve">
-    <value>興味の対象</value>
-    <comment>Compose extensions command Interests</comment>
-  </data>
-  <data name="ComposeExtensionsCommandInterestsDescription" xml:space="preserve">
-    <value>興味の対象に基づいてエキスパートを検索</value>
-    <comment>Compose extensions command Interests description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSchools" xml:space="preserve">
-    <value>学校</value>
-    <comment>Compose extensions command schools</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSchoolsDescription" xml:space="preserve">
-    <value>学校に基づいてエキスパートを検索</value>
-    <comment>Compose extensions command schools description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSkills" xml:space="preserve">
-    <value>スキル</value>
-    <comment>Compose extensions command skills</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSkillsDescription" xml:space="preserve">
-    <value>スキルに基づいてエキスパートを検索</value>
-    <comment>Compose extensions command skills description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersInterests" xml:space="preserve">
-    <value>興味の対象</value>
-    <comment>Compose extensions parameter Interests</comment>
-  </data>
-  <data name="ComposeExtensionsParametersInterestsDescription" xml:space="preserve">
-    <value>興味の対象に基づいてエキスパートを検索</value>
-    <comment>Compose extensions parameter Interests description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSchools" xml:space="preserve">
-    <value>学校</value>
-    <comment>Compose extensions parameter schools</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSchoolsDescription" xml:space="preserve">
-    <value>学校に基づいてエキスパートを検索</value>
-    <comment>Compose extensions parameter schools description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSkills" xml:space="preserve">
-    <value>スキル</value>
-    <comment>Compose extensions parameter skills</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSkillsDescription" xml:space="preserve">
-    <value>スキルに基づいてエキスパートを検索</value>
-    <comment>Compose extensions parameter skills description</comment>
+    <comment>Bot command Search. This needs to be matched with manifest's command "Search" in translated json file.</comment>
   </data>
   <data name="EndUserManifestFullDescription" xml:space="preserve">
     <value>エキスパートの検索では、スキル、興味の対象、または通っていた学校に基づいてユーザーが組織内のエキスパートを検索できます。また、ユーザーはプロフィール情報を更新して、最新の状態にしておくことができます。</value>

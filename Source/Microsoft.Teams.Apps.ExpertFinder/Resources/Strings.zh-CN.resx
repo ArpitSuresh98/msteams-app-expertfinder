@@ -299,94 +299,14 @@
   </data>
   <data name="BotCommandLogout" xml:space="preserve">
     <value>注销</value>
-    <comment>Bot command logout</comment>
-  </data>
-  <data name="BotCommandLogoutDescription" xml:space="preserve">
-    <value>注销专家查找程序</value>
-    <comment>Bot command logout description</comment>
+    <comment>Bot command Logout. This needs to be matched with manifest's command "Logout" in translated json file.</comment>
   </data>
   <data name="BotCommandMyProfile" xml:space="preserve">
     <value>我的个人资料</value>
-    <comment>Bot command my profile</comment>
-  </data>
-  <data name="BotCommandMyProfileDescription" xml:space="preserve">
-    <value>我的个人资料</value>
-    <comment>Bot command my profile description</comment>
+    <comment>Bot command My Profile. This needs to be matched with manifest's command "My Profile" in translated json file.</comment>
   </data>
   <data name="BotCommandSearch" xml:space="preserve">
     <value>搜索</value>
-    <comment>Bot command search</comment>
-  </data>
-  <data name="BotCommandSearchDescription" xml:space="preserve">
-    <value>搜索个人</value>
-    <comment>Bot command search description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandInterests" xml:space="preserve">
-    <value>兴趣</value>
-    <comment>Compose extensions command Interests</comment>
-  </data>
-  <data name="ComposeExtensionsCommandInterestsDescription" xml:space="preserve">
-    <value>基于兴趣搜索专家</value>
-    <comment>Compose extensions command Interests description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSchools" xml:space="preserve">
-    <value>学校</value>
-    <comment>Compose extensions command schools</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSchoolsDescription" xml:space="preserve">
-    <value>基于学校搜索专家</value>
-    <comment>Compose extensions command schools description</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSkills" xml:space="preserve">
-    <value>技能</value>
-    <comment>Compose extensions command skills</comment>
-  </data>
-  <data name="ComposeExtensionsCommandSkillsDescription" xml:space="preserve">
-    <value>基于技能搜索专家</value>
-    <comment>Compose extensions command skills description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersInterests" xml:space="preserve">
-    <value>兴趣</value>
-    <comment>Compose extensions parameter Interests</comment>
-  </data>
-  <data name="ComposeExtensionsParametersInterestsDescription" xml:space="preserve">
-    <value>基于兴趣搜索专家</value>
-    <comment>Compose extensions parameter Interests description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSchools" xml:space="preserve">
-    <value>学校</value>
-    <comment>Compose extensions parameter schools</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSchoolsDescription" xml:space="preserve">
-    <value>基于学校搜索专家</value>
-    <comment>Compose extensions parameter schools description</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSkills" xml:space="preserve">
-    <value>技能</value>
-    <comment>Compose extensions parameter skills</comment>
-  </data>
-  <data name="ComposeExtensionsParametersSkillsDescription" xml:space="preserve">
-    <value>基于技能搜索专家</value>
-    <comment>Compose extensions parameter skills description</comment>
-  </data>
-  <data name="EndUserManifestFullDescription" xml:space="preserve">
-    <value>“专业查找工具”允许用户根据技能、兴趣或就读学校搜索组织中的专家。此外，它还为用户提供了更新其个人资料信息并保持其更新的能力。</value>
-    <comment>{MaxLength=4000}
-End user manifest full description</comment>
-  </data>
-  <data name="EndUserManifestFullName" xml:space="preserve">
-    <value>专家查找工具</value>
-    <comment>{MaxLength=100}
-End user manifest full name</comment>
-  </data>
-  <data name="EndUserManifestShortDescription" xml:space="preserve">
-    <value>"专家查找工具"允许用户根据一些属性搜索专家</value>
-    <comment>{MaxLength=80}
-End user manifest short description</comment>
-  </data>
-  <data name="EndUserManifestShortName" xml:space="preserve">
-    <value>专家查找工具</value>
-    <comment>{MaxLength=30}
-End user manifest short name</comment>
+    <comment>Bot command Search. This needs to be matched with manifest's command "Search" in translated json file.</comment>
   </data>
 </root>
